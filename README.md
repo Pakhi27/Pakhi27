@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm pursing my Btech Degree in Data Science and Artificial Intelligence at IIIT Dharwad .\
-🌱 &nbsp;I’m currently developing my skills in Web Development, Data Structures and Algorithms.\
+🌱 &nbsp;I’m currently developing my skills in Web Development, Data Structures and Algorithms,python & its libraries.\
 ✍️ &nbsp;I like singing,dancing, playing badminton and Volleyball.
 
 ---
